@@ -24,7 +24,7 @@ A high-performance, fully automated farming macro for **Anime Overload** on Robl
 1. Head over to the [Releases](../../releases/latest) tab.
 2. Download the latest `anime-overload-setup.msi` file.
 3. Run the installer (Windows may prompt a Defender warning since this is a new indie app—click "More info" -> "Run anyway").
-4. Open the app, paste your license key, and launch Roblox!
+4. Open the app, and launch Roblox!
 
 ### ⚙️ How to Use
 1. Open **Anime Overload** and load into the main lobby.
@@ -34,21 +34,8 @@ A high-performance, fully automated farming macro for **Anime Overload** on Robl
 
 *(Use `F1` to Dock, `F4` to Undock, and `F2` to easily toggle the macro on and off).*
 
----
-
-## 🛠️ Tech Stack
-
-This macro was engineered from the ground up to be lightweight and fast:
-* **Frontend:** SvelteKit & Tauri (Minimal RAM footprint, fluid UI).
-* **Backend:** Python 3 (For raw execution speed).
-* **Vision Engine:** OpenCV & Pillow.
-* **Input Simulation:** PyAutoGUI & PyDirectInput.
 
 ---
-
-## ⚠️ Disclaimer
-
-This software is for educational and testing purposes. Use at your own risk. The developer is not responsible for any actions taken against your Roblox account by the game's moderation team.
 
 ---
 *Built by SirLuxi*
