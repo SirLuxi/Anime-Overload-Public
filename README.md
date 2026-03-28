@@ -6,8 +6,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?style=for-the-badge&logo=windows)](../../releases/latest)
 [![Tech Stack](https://img.shields.io/badge/Tech-PyTauri%20%7C%20Svelte%20%7C%20OpenCV-success?style=for-the-badge)](#)
 
-**The only macro you'll ever need for Anime Overload.**  
-A fully automated, vision-powered farming macro with a premium desktop UI — built to handle everything while you do nothing.
+
 
 </div>
 
